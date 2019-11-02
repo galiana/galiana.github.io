@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sitecore and Solr: searching empty fields"
-date:   2017-06-013 16:34:10 +0100
+date:   2017-06-13 16:34:10 +0100
 categories: [Sitecore,Solr]
 tags: []
 image: publish context.png

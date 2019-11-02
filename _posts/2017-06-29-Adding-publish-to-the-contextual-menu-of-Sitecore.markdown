@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding publish item to the contextual menu of Sitecore"
 date:   2017-06-29 15:34:10 +0100
-categories: [sitecore]
+categories: [Sitecore]
 image: publish context.png
 ---
 

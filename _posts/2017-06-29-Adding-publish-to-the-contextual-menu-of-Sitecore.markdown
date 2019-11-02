@@ -19,6 +19,6 @@ Change the Item icon to "Office/16x16/publish.png"
 To be fair, I have to give the credits to Benjamin Vangansewinkel and his post, who gave me the idea. I just added the icons to make it look nicer...
 
 That's it, now you should get something like this:
-![Publish on context menu](https://raw.githubusercontent.com/galliana/galiana.github.io/master/static/img/_posts/publish context.png  "Publish on context menu")
+![Publish on context menu]("https://raw.githubusercontent.com/galliana/galiana.github.io/master/static/img/_posts/publish context.png"  "Publish on context menu")
 
 That's it, now run to show it to your experienced Sitecore users and watch their faces of joy!

@@ -81,6 +81,9 @@ footer {
   padding-bottom: 10px;
 }
 
+ol.posts{
+min-height: 600px;
+}
 /* Left column */
 div.col-sm-3 {
   margin-top: 100px;

@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I´m a Sitecore/.Net/Azure developer stablished in Alicante currently working for ClearPeople. I´ve been working with sitecore since 2011, and since version 1.1 with asp.net
 
-email: agus[at]python.web.id
+email: vicent[at]galysoft.es

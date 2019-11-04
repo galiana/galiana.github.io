@@ -33,7 +33,7 @@ public class PostSolrStartUp: DefaultSolrStartUp
             return solrConnection;
         }
     }
- {% endhighligt %}
+ {% endhighlight %}
 
 Create a new Sitecore Initializer:
 {% highlight c# %}

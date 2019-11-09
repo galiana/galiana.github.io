@@ -8,7 +8,7 @@ categories: [Sitecore, uCommerce]
 Installing uCommerce on a content delivery server is pretty simple, nothing new, just install the package on Sitecore and done.
 
 Perfect! everything is up and running, but... what if now you follow the standard procedure of "security hardening" for a CD server?
-
+<!--more-->
 One of the usual steps is to remove any link to the master database. You do it, and nothing happens, it may look lie if it works but... sometimes uCommerce must read items directly from the Sitecore tables and, by default it does it from the master database. One example is the confirmation emails, uCommerce will fail with the error: Could not find configuration node: databases/database[@id='master']
 
 You can control from which database uCommerce reads the items by changing the property "nameofcontentdatabase" of the component "SitecoreContext". By default, this configuration is stored in the configuration file shell.config, but as usual, uCommerce recommends to apply those changes in the custom.config file, instead of modifying any uCommerce file directly.

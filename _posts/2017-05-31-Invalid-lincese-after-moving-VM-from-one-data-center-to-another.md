@@ -6,7 +6,7 @@ categories: [Azure]
 ---
 
 Some months ago we had to move our servers from Germany to North Europe and recently windows is asking us to provide a valid product key.
-
+<!--more-->
 Running the command slmgr.vbs /dlv we could see that the registered KMS machine name was kms.core.cloudapp.de
 
 Apparently, for Nort Europe (at least) the server name must be kms.core.windows.net

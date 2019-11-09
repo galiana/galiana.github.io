@@ -6,7 +6,7 @@ categories: [Sitecore, Solr]
 ---
 
 Recently I have been having issues while trying to send really long queries to Solr from Sitecore. Sometimes my problem was Solr rejecting the request, other .Net itself complaining about the length of the uri.
-
+<!--more-->
 Error: Invalid URI: The Uri string is too long.
 
 The remote server returned an error: (414) Request-URI Too Long

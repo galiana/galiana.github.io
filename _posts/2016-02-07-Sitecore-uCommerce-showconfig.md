@@ -7,6 +7,7 @@ categories: [Sitecore, uCommerce]
 
 
 Every Sitecore developer knows (or should know) about the configuration transformation files under the folder app_config/include.
+<!--more-->
 
 When Sitecore starts, it merges those file into a single xml using custom transformation attributes to then, read its settings from there. We as developers, create new configuration files hoping that Sitecore understands them as we want. To make our life easier Sitecore provides a page to check the results of those transformations, so we can see the final result.
 

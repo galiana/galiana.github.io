@@ -6,7 +6,7 @@ categories: [Sitecore, SQL Azure]
 ---
 
 Recently, one of my biggest instances went mad and decided to consume all the available memory on the server, to finally die and restart. No deployment, nor code changes, no editions, nothing...
-
+<!--more-->
 I then noticed that some hours before we had a full site republished, which apparently was completed without errors.
 
 As we had some issues before with the event queue and related tables I decided to try a shortcut. I truncated all these tables, restarted the application and voila! Sitecore went back to normal.

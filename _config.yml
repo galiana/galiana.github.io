@@ -8,7 +8,7 @@ google_analytics: UA-19087757-1
 
 enableTags: true
 tagarray: []
-
+excerpt_separator: <!--more-->
 collections:
   project:
     output: true

@@ -6,7 +6,7 @@ categories: [Sitecore,Solr]
 tags: []
 image: publish context.png
 ---
-By default, when we index our content in solr (same for Lucene) Sitecore creates a document per item, and store the value of each (Sitecore) field in its related field in Solr. This is just the basic scenario, and can (And will) become more complex as we introduce other scenarios, but it's enough for our matter.
+By default, when we index our content in solr (same for Lucene) Sitecore creates a document per item, and store the value of each (Sitecore) field in its related field in Solr.<!--more--> This is just the basic scenario, and can (And will) become more complex as we introduce other scenarios, but it's enough for our matter.
 
 In Solr and Lucene, each document is different. A document can have multiple fields, the same field can be stored several times and a field can not exist for a given document.
 

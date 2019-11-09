@@ -8,7 +8,7 @@ image: publish context.png
 ---
 
 ## Sitecore’s Journey
-This is our new mantra in the digital marketing world we are living now and Sitecore has taken it seriously. Not just because they are including the word “experience” in almost every product they launch, but because Sitecore is getting rebuild to help the customer to deliver the best experience to their clients.
+This is our new mantra in the digital marketing world we are living now and Sitecore has taken it seriously. <!--more-->Not just because they are including the word “experience” in almost every product they launch, but because Sitecore is getting rebuild to help the customer to deliver the best experience to their clients.
 
 ## First step, laying down the foundations: Collect, process and use every interaction in every channel
 Even when Sitecore as a CMS is able to deliver personalized content from earlier versions, the introduction of [XdB](https://www.sitecore.com/products/sitecore-experience-platform/customer-intelligence/customer-data) in Sitecore 8 is the first big step towards a new league where Sitecore becomes the centre of the multichannel Digital marketing, and equally important, at scale.

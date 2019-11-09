@@ -6,7 +6,7 @@ categories: [Sitecore]
 image: publish context.png
 ---
 
-How many times have you right-click on an item to publish it to remember that this option is not available? How annoying it is for you, having to go to "Publish" tab, click on publish item, etc... I got fed up while working on LawNow Upgrade and decided to add it. It's a 5 min task and saves "hours" of frustration...
+How many times have you right-click on an item to publish it to remember that this option is not available? How annoying it is for you, having to go to "Publish" tab, click on publish item, etc... <!--more-->I got fed up while working on LawNow Upgrade and decided to add it. It's a 5 min task and saves "hours" of frustration...
 
 Change to the core database
 Go to: /sitecore/content/Applications/Content Editor/Context Menues/Default

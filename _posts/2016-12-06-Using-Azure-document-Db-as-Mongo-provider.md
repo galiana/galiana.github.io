@@ -7,7 +7,7 @@ categories: [Sitecore, Azure, DocumentDB]
 
 Since Document DB started supporting Mongo's protocol I was wondering if we could have Sitecore running on Document DB.
 
-And today I managed to get it running. It threw a couple of exceptions the first time, but since then I don't see any error and, apparently, everything is working fine. (Of course, I Haven't tested it thoroughly).
+And today I managed to get it running.<!--more--> It threw a couple of exceptions the first time, but since then I don't see any error and, apparently, everything is working fine. (Of course, I Haven't tested it thoroughly).
 
 ## The first step is creating the Database as a service for mongo on Azure
 Go to the portal and click on New

@@ -14,7 +14,7 @@ collections:
     output: true
     permalink: /project/:path/
   posts:
-    permalink: /posts/:year-:month-:day-:name
+    permalink: /posts/:name
 
 social:
     - icon: fa-twitter

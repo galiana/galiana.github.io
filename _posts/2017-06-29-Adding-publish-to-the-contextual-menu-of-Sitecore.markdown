@@ -20,6 +20,6 @@ To be fair, I have to give the credits to Benjamin Vangansewinkel and his post, 
 
 That's it, now you should get something like this:
 
-![Publish on context menu](https://raw.githubusercontent.com/galiana/galiana.github.io/master/static/img/_posts/publish context.png  "Publish on context menu")
+![Publish on context menu](/static/img/_posts/publish context.png  "Publish on context menu")
 
 That's it, now run to show it to your experienced Sitecore users and watch their faces of joy!

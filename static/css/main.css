@@ -303,8 +303,8 @@ body {
   margin-top: 10px;
 }
 
-/*text styling*/
-h1 {
+/*text styling 404*/
+.404 h1 {
   font-family: $big;
   color: $white;
   text-align: center;
@@ -312,7 +312,7 @@ h1 {
   margin: 0;
   text-shadow: -1px 0 $gray, 0 1px $gray, 1px 0 $gray, 0 -1px $gray;
 }
-h3 {
+.404 h3 {
   font-family: $body;
   font-size: 2em;
   text-transform: uppercase;
@@ -321,7 +321,7 @@ h3 {
   margin-top: -20px;
   font-weight: 900;
 }
-p {
+.404 p {
   text-align: center;
   font-family: $body;
   color: $dark;
@@ -330,34 +330,18 @@ p {
   text-transform: uppercase;
 }
 
-.search {
+.404 .search {
   text-align: center;
 }
 
-.buttons {
+.404 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 10px;
 }
 
-/*search style*/
-
-.search-bar {
-  border: 1px solid $gray;
-  padding: 5px;
-  height: 20px;
-  margin-left: -30px;
-  width: 200px;
-  outline: none;
-  &:focus {
-    border: 1px solid $light;
-  }
-}
-
-
-
-.btn {
+.404 .btn {
   background: $white;
   padding: 15px 20px;
   margin: 5px;
@@ -372,8 +356,6 @@ p {
     transition: all .4s ease-out;
   }
 }
-
-
 
 /* Responsive Conditional */
 @media (min-width: 1024px) {

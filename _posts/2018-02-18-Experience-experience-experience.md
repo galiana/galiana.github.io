@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sitecore. Experience, Experience, Experience"
-date:   2018-02-08 14:34:10 +0100
+date:   2018-02-18 14:34:10 +0100
 categories: [Sitecore]
 tags: [Cortex, Horizon, Zenith, xConnect, xDb, commmerce]
 image: publish context.png

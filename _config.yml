@@ -13,6 +13,8 @@ collections:
   project:
     output: true
     permalink: /project/:path/
+  posts:
+    permalink: /posts/
 
 social:
     - icon: fa-twitter

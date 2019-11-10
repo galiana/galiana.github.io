@@ -4,7 +4,7 @@ title:  "Links on received emails sometimes doesn´t work for a while with error
 date:   2015-01-27 11:34:10 +0100
 categories: [Sitecore, ExM]
 ---
-If you ever notice that links are not working when somebody receives an email sent by Sitecore Email campaign Manager, but after a while, without doing anything everything starts working, you may have a problem with the publishing queue.
+If you ever notice that links are not working when somebody receives an email sent by Sitecore Email campaign Manager, but after a while, without doing anything everything starts working, you may have a problem with the publishing queue.<!--more-->
 
 During the dispatchnewsletter pipeline, ECM executes the processor deployanalytics before the email is sent, and if you followed the recommendations, it will have an auto publish action when it´s "approved".
 

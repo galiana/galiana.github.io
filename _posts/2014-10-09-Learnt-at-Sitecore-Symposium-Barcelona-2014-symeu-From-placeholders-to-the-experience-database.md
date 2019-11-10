@@ -4,7 +4,7 @@ title:  "Learnt at Sitecore Symposium Barcelona 2014 #symeu From placeholders to
 date:   2014-10-09 11:34:10 +0100
 categories: [Sitecore]
 ---
-
+<!--more-->
 ## First conclusion: Sitecore is not a (web) content management system.
 
 "What did you drink?" you'll be thinking… but this is one of the key concepts the Sitecore guys managed to convince me of: Sitecore is a marketing platform, which includes a (very good) CMS. If you think about it, it makes sense…

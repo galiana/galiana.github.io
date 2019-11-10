@@ -6,7 +6,7 @@ categories: [Sitecore, ExM]
 ---
 
 First of all, keep in mind this is just a "prove of concept" and all the security concerns this kind of solutions could have.
-
+<!--more-->
  
 It's common to include links to secured areas of your website like "manage your preferences". Usually the user has to be redirected to a log in page before accessing the expected page.
 With this module the user will be automatically logged in, making your email integration much more user friendly.

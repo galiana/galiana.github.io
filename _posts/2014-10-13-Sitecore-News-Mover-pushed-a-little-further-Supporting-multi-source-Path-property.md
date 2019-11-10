@@ -6,8 +6,8 @@ categories: [Sitecore]
 ---
 
 The good old "[news mover](https://marketplace.sitecore.net/Modules/News_mover.aspx)" (Or item mover) has been there helping in most of my project, so I thought it´s time to give something back.
-
-Supporting multi-source Path property 
+<!--more-->
+## Supporting multi-source Path property 
 Until the pull request is accepted (If it´s accepted), you can find [here](https://github.com/ClearPeopleLtd/NewsMover) a slightly different version, which supports a new property "roots" per template.
 
 This property is optional and accepts one or more item ID´s separated by "|". If this property is used, only descendants of any of these items will be moved.

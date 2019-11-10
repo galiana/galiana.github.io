@@ -47,6 +47,7 @@ gems:
 
 compress_html:
   clippings: all
+  comments: ["<!-- ", " -->"]
   endings: all
   ignore:
     envs: ['development']

@@ -4,9 +4,9 @@ title:  "Sharepoint 2007 error: Form control does not have ControlMode set"
 date:   2012-06-04 11:34:10 +0100
 categories: [Sharepoint]
 ---
-One of the most common tasks when branding a SharePoint installation is to generate custom master page to be used in your freshly branded site. As a front end developer, in an attempt to si      mplify the masterpage, and further management and maintenance of the master page, you tend to (or at least, I tend to) try and remove all the unnecessary code and place holders you’re not going to use. In a SharePoint master page this can be hundreds of lines!
+One of the most common tasks when branding a SharePoint installation is to generate custom master page to be used in your freshly branded site<!--more-->. As a front end developer, in an attempt to simplify the masterpage, and further management and maintenance of the master page, you tend to (or at least, I tend to) try and remove all the unnecessary code and place-holders you’re not going to use. In a SharePoint master page this can be hundreds of lines!
 
-However, if you start removing items from the Master Page you will soon learn that you cannot simply remove every it’s you won’t need, because SharePoint needs some of them! This becomes more complex because when you test your new master page, you get a nice generic error page, without any description of the problem! To make the error page more meaningful you need to modify the custom error configuration of your test web site to be able to find the error.
+However, if you start removing items from the Master Page you will soon learn that you cannot simply remove everything you won’t need, because SharePoint needs some of them! This becomes more complex because when you test your new master page, you get a nice generic error page, without any description of the problem! To make the error page more meaningful you need to modify the custom error configuration of your test web site to be able to find the error.
 
 To do this Open the file web.config at “c:\Inetpub\wwwroot\wss\VirtualDirectories\yousitecollection”, and modify the line <customErrorsmode="RemoteOnly" />and set the mode to Off. Now you’ll get the typical asp.net error page with a clear message complaining about some missing placeholder.
 

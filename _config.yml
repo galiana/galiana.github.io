@@ -33,7 +33,7 @@ urls:
     - text: About Me
       url: /about/
     - text: VIcent Galiana CV
-      url: /static/cv/Vicent Galiana 2019.pdf
+      url: /static/cv/Vicent Galiana CV 2019.pdf
     - text: XML Feed
       url: /feed.xml
 
